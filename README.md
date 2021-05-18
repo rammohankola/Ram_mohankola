@@ -1,2 +1,3 @@
-# Ram_mohankola
-7 days bootcamp
+A=10
+Print(A)
+
